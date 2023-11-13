@@ -1,7 +1,0 @@
-ID5059 TODO
-
-##########
-- check pipeline and original line up
-- Say ordinal may be useful to reduce compelxity
-- how to stop dataframe copies being made
-- delete anything no longer needed
